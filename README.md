@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Witam wszystkich,
+Mam na imię Bartek i jestem studentem Informatyki i systemów inteligentnych na Akademii Górniczo-Hutniczej.
+
+Obecnie uczę się pythona na kursie internetowym oraz języka C, więc juz wkrótce wrzucę moje pierwsze ciekawe projekty.
+
