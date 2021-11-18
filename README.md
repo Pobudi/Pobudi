@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Pobudi/Pobudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Witam wszystkich,
+### Witam wszystkich, 👋
 Mam na imię Bartek i jestem studentem Informatyki i systemów inteligentnych na Akademii Górniczo-Hutniczej.
 
 Obecnie uczę się pythona na kursie internetowym oraz języka C, więc juz wkrótce wrzucę moje pierwsze ciekawe projekty.
