@@ -21,3 +21,6 @@ Mam na imię Bartek i jestem studentem Informatyki i systemów inteligentnych na
 Obecnie uczę się pythona na kursie internetowym oraz języka C, więc juz wkrótce wrzucę moje pierwsze ciekawe projekty.
 
 A [tutaj](https://pobudi.github.io/) jest moja strona internetowa 
+
+
+Link do forka repozytorium: https://github.com/Pobudi/FuseDream
