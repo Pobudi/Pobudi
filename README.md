@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 
 ### Witam wszystkich, 👋
 Mam na imię Bartek i jestem studentem Informatyki i systemów inteligentnych na Akademii Górniczo-Hutniczej.
-
-Obecnie uczę się pythona na kursie internetowym oraz języka C, więc juz wkrótce wrzucę moje pierwsze ciekawe projekty.
-
-A [tutaj](https://pobudi.github.io/) jest moja strona internetowa 
-
-
-Link do forka repozytorium: https://github.com/Pobudi/FuseDream
