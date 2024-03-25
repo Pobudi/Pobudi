@@ -39,5 +39,5 @@ Technologies I am familiar with:
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgrewSQL"/>
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
 </p>
-<p>Find me on <a href="https://www.linkedin.com/in/bartosz-pobudejski-758478177/" target="_blank">LinkedIn</a></p>
+<p>Find me on <a href="https://www.linkedin.com/in/bartosz-pobudejski-758478177/">LinkedIn</a></p>
 <!--Icons from: https://github.com/devicons/devicon/blob/master/icons-->
