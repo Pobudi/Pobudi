@@ -38,17 +38,6 @@ Technologies I am familiar with:
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"/>
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgrewSQL"/>
   <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET"/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-  <img width="50" src="" alt="" title=""/>
-
 </p>
+<p>Find me on <a href="https://www.linkedin.com/in/bartosz-pobudejski-758478177/">LinkedIn</a></p>
+<!--Icons from: https://github.com/devicons/devicon/blob/master/icons-->
